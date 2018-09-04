@@ -1,0 +1,14 @@
+<section class="foodinfo">
+  <div class="food cf" ng-model="foods">
+    <a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+    <a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+    <h1>{{foods[whichItem].name}}</h1>
+    <div class="info">
+      <h3>{{foods[whichItem].category}}</h3>
+      <img ng-src="images/{{foods[whichItem].shortname}}_tn.jpg" alt="Photo of {{foods[whichItem].name}}">
+      <div class="desc">{{foods[whichItem].desc}}</div> <h3>{{foods[whichItem].price}}</h3>
+    </div>
+  </div>
+  <a href="index.html">&laquo; Back to search</a> 
+ <input type="button" class="btn" ng-click="saveItem()" value = "Add to Cart">
+</section>

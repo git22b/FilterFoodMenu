@@ -1,0 +1,65 @@
+[
+  {
+    "name":"Lamb Shank",
+    "shortname":"LambShank",
+    "price":"$25",
+    "category":"Main Course",
+    "desc":"Quince, Cornmeal Mush, Natural Braising Juices"
+  },
+  {
+    "name":"Roasted Poussin",
+	"shortname":"RoastedPoussin",
+    "price":"$24",
+    "category":"Main Course",
+    "desc":"Scalloped Potatoes, Roasted Brussels Sprouts, Mustard Seed-Tarragon Pan Sauce"
+  },
+  {
+    "name":"Chicken Quesadilla",
+    "shortname":"ChickenQuesadilla",
+	"price":"$18",
+    "category":"Appetizers",
+    "desc":"Sliced chicken with onions, sweet peppers, spinach and our three cheese blend. Griddled and served with tomato salsa and sour cream."
+  },
+  {
+    "name":"Jamaican Chicken",
+    "shortname":"JamaicanChicken",
+	"price":"$15",
+    "category":"Appetizers",
+    "desc":"Marinated in authentic Jamaican jerk seasonings and served with crisp skin."
+  },
+  {
+    "name":"Banana Nut Bread Supreme",
+    "shortname":"BananaNutBreadSupreme",
+	"price":"$16",
+    "category":"Dessert",
+    "desc":"Sliced bananas, vanilla ice cream on warm banana nut bread with hot butterscotch brandy sauce"
+  },
+  {
+    "name":"Chocolate Cake",
+    "shortname":"ChocolateCake",
+	"price":"$20",
+    "category":"Dessert",
+    "desc":"A warm, rich chocolate cake with a chocolate molten center topped with caramelized pineapple, served with raspberry sauce and fresh Island fruit."
+  },
+  {
+    "name":"Bon Matin",
+    "shortname":"BonMatin",
+    "price":"$13",
+    "category":"Main Course",
+    "desc":"Prosciutto, tomato, avocado, olive tapenade, brie, soft boiled egg, sourdough"
+  },
+  {
+    "name":"Paella",
+    "shortname":"Paell",
+    "price":"$17",
+    "category":"Main Course",
+    "desc":"1 fried egg, curried orzo, hot spanish chorizo, charred tomato salsa, cucumber, picked cilantro"
+  },
+  {
+    "name":"Ratatouille",
+    "shortname":"Ratatouill",
+    "price":"$18",
+    "category":"Main Course",
+    "desc":"Zucchini, eggplant, peppers, tomato, purple potatoes, spinach, dill, ricotta, olives & quinoa tabouleh"
+  }
+]
